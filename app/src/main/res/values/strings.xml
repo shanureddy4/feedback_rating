@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">feedback_rating</string>
+    <string name="q1">How would you rate your Teacher skills?</string>
+    <string name="q2">How would you rate the course’s overall design</string>
+    <string name="q3">Rate the quality of the course’s  features.</string>
+    <string name="q4">How would you rate the course’s overall accessibility quality?</string>
+    <string name="q5">How would you rate your overall learning experience</string>
+
+</resources>
