@@ -1,3 +1,6 @@
+# Steps to clone
+ - Install Android Studio.
+ - Clone the project.
 # feedback_rating
 In the practice of how to use api's in android studio, created a simple application that will show up ratings graphically.
 
